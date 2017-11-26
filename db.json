@@ -148,6 +148,7 @@
 			"created_at": 1511351270000,
 			"email": "abdallahskonta@gmail.com",
 			"has_been_claimed": false,
+			"tags": ["art,it,biotecht"],
 			"custom": {
 				"is_super_user": false,
 				"ips": []
@@ -159,6 +160,7 @@
 			"created_at": 1510827950000,
 			"email": "thucngdg@paritceep.com",
 			"has_been_claimed": false,
+			"tags": ["art"],
 			"custom": {
 				"is_super_user": false,
 				"ips": []
@@ -170,6 +172,7 @@
 			"created_at": 1508950691000,
 			"email": "najim.baby@particeep.com",
 			"has_been_claimed": false,
+			"tags": ["art,biotecht"],
 			"custom": {
 				"is_super_user": false,
 				"ips": [
@@ -189,6 +192,7 @@
 			"first_name": "zaza",
 			"last_name": "aaza",
 			"has_been_claimed": false,
+			"tags": ["it,biotecht"],
 			"custom": {
 				"is_super_user": false,
 				"ips": [
@@ -210,6 +214,7 @@
 			"phone": "098765432",
 			"categories": " ",
 			"has_been_claimed": true,
+			"tags": ["it"],
 			"custom": {
 				"is_super_user": true,
 				"ips": [
@@ -232,6 +237,7 @@
 			"created_at": 1507737796000,
 			"email": "christophe.caquineau@hotmail.fr",
 			"has_been_claimed": true,
+			"tags": ["art,it,biotecht"],
 			"custom": {
 				"is_super_user": true,
 				"ips": []
@@ -243,6 +249,7 @@
 			"created_at": 1507621317000,
 			"email": "test@gmail.com",
 			"has_been_claimed": false,
+			"tags": ["art,it"],
 			"custom": {
 				"is_super_user": true,
 				"ips": []
